@@ -1,5 +1,5 @@
 <!-- Greeting -->
-HANYANGL
+HANYANG LIM
 
 <!--Introduction -->
 3+ years business analyst experience in an agile mobile app development team.<br>
