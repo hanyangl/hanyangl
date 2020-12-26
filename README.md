@@ -4,17 +4,18 @@ HANYANG LIM
 <!--Introduction -->
 3+ years business analyst experience in an agile mobile app development team.<br>
 [UPenn MCIT](https://onlinelearning.seas.upenn.edu/mcit/) '21 (Expected) <br>
-Core courses taken in: <br>
+Courses taken: <br>
 * [software engineering](https://www.seas.upenn.edu/~cit591/), <br>
 * [mathematics for computer science](https://sites.google.com/seas.upenn.edu/cit592), <br>
 * [computer systems programming](https://www.seas.upenn.edu/~cit593/), <br>
 * [data structures](https://www.seas.upenn.edu/~cit594/), <br>
 * [operating systems](https://www.seas.upenn.edu/~cit595/), <br>
 * [algorithms and computation](https://www.seas.upenn.edu/~cit596/) <br>
-
-Currently studying: 
 * [linear algebra and optimizations (math for machine learning)](https://www.cis.upenn.edu/~cis515/) <br>
 * [computer vision](https://www.seas.upenn.edu/~cit591/) <br>
+
+Currently studying: 
+
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-hanyangl-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/limhanyang/)
