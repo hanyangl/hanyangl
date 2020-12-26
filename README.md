@@ -14,7 +14,7 @@ Courses taken: <br>
 * [linear algebra and optimizations (math for machine learning)](https://www.cis.upenn.edu/~cis515/) <br>
 * [computer vision](https://www.seas.upenn.edu/~cit591/) <br>
 
-Currently studying: 
+// Currently studying: 
 
 
 <!-- Your badges -->
