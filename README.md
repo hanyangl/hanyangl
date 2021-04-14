@@ -13,6 +13,7 @@ Courses taken: <br>
 * [algorithms and computation](https://www.seas.upenn.edu/~cit596/) <br>
 * [linear algebra and optimizations (math for machine learning)](https://www.cis.upenn.edu/~cis515/) <br>
 * [computer vision](https://www.seas.upenn.edu/~cit591/) <br>
+* [blockchains & cryptography](https://www.coursicle.com/penn/courses/CIT/582/) <br>
 
 <!-- Currently studying: >
 
