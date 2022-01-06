@@ -2,7 +2,7 @@
 HANYANG LIM
 
 <!--Introduction -->
-3+ years business analyst experience in an agile mobile app development team.<br>
+4+ years experience on mobile apps.<br>
 [UPenn MCIT](https://onlinelearning.seas.upenn.edu/mcit/) '21 (Expected) <br>
 Courses taken: <br>
 * [software engineering](https://www.seas.upenn.edu/~cit591/), <br>
