@@ -3,7 +3,7 @@ HANYANG LIM
 
 <!--Introduction -->
 4+ years experience on mobile apps.<br>
-[UPenn MCIT](https://onlinelearning.seas.upenn.edu/mcit/) '21 (Expected) <br>
+[UPenn MCIT](https://onlinelearning.seas.upenn.edu/mcit/) '21 <br>
 Courses taken: <br>
 * [software engineering](https://www.seas.upenn.edu/~cit591/), <br>
 * [mathematics for computer science](https://sites.google.com/seas.upenn.edu/cit592), <br>
